@@ -4,7 +4,8 @@
 ### Introduction: 
 This Github Repository includes all files and code for the projetc of course INDE577. 
 
-### Progamming Tool: Python
+### Progamming Tool: 
+ + Python
 
 ### The Components of Learning
 
