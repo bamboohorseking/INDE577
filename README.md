@@ -2,7 +2,7 @@
 ### Student Name: Shiyuan wang 
 ### Instructor Name: Randy R. Davila
 ### Introduction: 
-This Github Repository includes all files and code for the projetc of course INDE577. 
+This Github Repository includes all files and code for the projetc of course INDE577. (By the way, If you want to use my code, please STAR this repo!!!)
 
 ### Progamming Tool: 
  + Python
