@@ -14,14 +14,16 @@ This Github Repository includes all files and code for the projetc of course IND
 ### The Components of Learning
 
 + Supervised Learning
-  + [The K-Nearest Neighbors Algorithm]
+  + [The K-Nearest Neighbors]
   + [Decision Trees]
   + [Neural Nets I and Gradient Descent]
   + [Logistic Regression]
-  + [The Perceptron Learning Algorithm]
+  + [Perceptron]
+  + [Multilayer Perceptron]
+  + [Ensemble Learning & Random Forest]
+  + [Linear Regression]
 + Unsupervised Learning
-  + Clustering
-  + [The K-Means Clustering Algorithm]
-  + [Random Forest]
+  + [The K-Means Clustering]
+
 
 
