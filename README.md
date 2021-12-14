@@ -4,6 +4,7 @@
 ### Introduction: 
 This Github Repository includes all files and code for the projetc of course INDE577. (By the way, If you want to use my code, please STAR this repo!!!)
 
+<img src="https://datasciencedojo.com/wp-content/uploads/Mlchart3.jpg" width="800" height="500">
 ### Progamming Tool: 
  + Python
 
