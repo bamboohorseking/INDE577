@@ -27,3 +27,4 @@ The following packages will be needed to run the code below:
 
 ## References
 1. k-NN ( k-Nearest Neighbors) Starter Guide: https://machinelearninghd.com/k-nn-k-nearest-neighbors-starter-guide/
+2. Advantages and Disadvantages of KNN Algorithm in Machine Learning: http://theprofessionalspoint.blogspot.com/2019/02/advantages-and-disadvantages-of-knn.html
