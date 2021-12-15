@@ -2,7 +2,7 @@
 ## Objectives:
 Given the Red wine infomation, I want to predict the quality of the red wine. We will consider the quality score higher than 6 as Good quality (INDEX = 1), and the quality score lower or equal to 6 is Bad quality(INDEX = 0).
 
-<img src="https://miro.medium.com/max/800/1*UgYbimgPXf6XXxMy2yqRLw.png" width="800" height="700">
+<img src="https://miro.medium.com/max/800/1*UgYbimgPXf6XXxMy2yqRLw.png" width="1000" height="600">
 
 
 ## Data
