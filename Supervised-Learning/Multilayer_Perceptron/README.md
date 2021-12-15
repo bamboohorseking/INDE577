@@ -36,4 +36,4 @@ The following packages will be needed to run the code below:
 
 References: 
 1. Fashion mnist Dataset Github Page: https://github.com/zalandoresearch/fashion-mnist
-2. Multilayer Neural Networks: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fwww.inf.ed.ac.uk%2Fteaching%2Fcourses%2Finf2b%2FlearnSlides%2Finf2b11-learnlec13-nup.pdf&clen=1021646&chunk=true
+2. The Digital Twin Paradigm for Smarter Systems and Environments: The Industry Use Cases: https://www.sciencedirect.com/topics/computer-science/multilayer-perceptron
