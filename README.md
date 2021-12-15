@@ -14,14 +14,14 @@ This Github Repository includes all files and code for the projetc of course IND
 ### The Components of Learning
 
 + Supervised Learning
-  + [The K-Nearest Neighbors]
-  + [Decision Trees]
-  + [Neural Nets I and Gradient Descent]
-  + [Logistic Regression]
-  + [Perceptron]
-  + [Multilayer Perceptron]
-  + [Ensemble Learning & Random Forest]
-  + [Linear Regression]
+  + [The K-Nearest Neighbors](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/K-Nearest-Neighbors)
+  + [Decision Trees](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Decision_Tree)
+  + [Neural Nets I and Gradient Descent](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Gradient_Descent%26Neural_Network)
+  + [Logistic Regression](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Logistic_Regression)
+  + [Perceptron](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Perceptron)
+  + [Multilayer Perceptron](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Multilayer_Perceptron)
+  + [Ensemble Learning & Random Forest](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Ensemble_Learning%26Random_Forest)
+  + [Linear Regression](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Linear_Regression)
 + Unsupervised Learning
   + [The K-Means Clustering]
 
