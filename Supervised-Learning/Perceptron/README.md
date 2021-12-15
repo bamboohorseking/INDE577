@@ -1,4 +1,6 @@
 # Perceptron
+By: Shiyuan Wang
+
 ## Objectives:
 In this project, I will explore the Perceptron algoritm on a dataset named "Red wine". I will use 2 features to make a prediction on the quality of the red wine. 
 
