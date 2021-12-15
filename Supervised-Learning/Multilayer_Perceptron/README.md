@@ -3,7 +3,7 @@ By: Shiyuan Wang
 ## Objectives:
 For this project, I will implement the MLP algorithm on the dataset of fashion mnist.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01ojjph5h0TZnjET_NogXWpJA9_bgnLRmNQ&usqp=CAU" width="800" height="500">
+<img src="https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="900" height="800">
 
 
 ## Data
@@ -33,3 +33,7 @@ The following packages will be needed to run the code below:
 *   pandas: [documentation](https://pandas.pydata.org/docs/)
 *   sklearn: [documentation](https://scikit-learn.org/stable/)
 *   tensorflow: [documentation](https://www.tensorflow.org/api_docs)
+
+References: 
+1. Fashion mnist Dataset Github Page: https://github.com/zalandoresearch/fashion-mnist
+2. Multilayer Neural Networks: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fwww.inf.ed.ac.uk%2Fteaching%2Fcourses%2Finf2b%2FlearnSlides%2Finf2b11-learnlec13-nup.pdf&clen=1021646&chunk=true
