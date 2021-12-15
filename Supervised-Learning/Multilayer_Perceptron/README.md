@@ -4,6 +4,8 @@ By: Shiyuan Wang
 For this project, I will implement the MLP algorithm on the dataset of fashion mnist.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01ojjph5h0TZnjET_NogXWpJA9_bgnLRmNQ&usqp=CAU" width="800" height="500">
+
+
 ## Data
 It is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. The access website link is: [access link](https://github.com/zalandoresearch/fashion-mnist)
 
