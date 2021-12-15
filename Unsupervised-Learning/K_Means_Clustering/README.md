@@ -6,7 +6,9 @@ In this assignment, we will explore K means algorithm on a dataset named "Red wi
 
 
 ## Data
-In this assignment, we will explore K means algorithm on a dataset named "Red wine". It contains 1599 samples,12 columns. Download link is: [link](https://archive.ics.uci.edu/ml/datasets/wine+quality)
+In this assignment, we will explore K means algorithm on a dataset named "Red wine". It contains 1599 samples,12 columns. 
+
+Download link is: [link](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 * fixed acidity
 * volatile acidity
 * citric acid
