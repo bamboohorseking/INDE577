@@ -23,7 +23,7 @@ This Github Repository includes all files and code for the projetc of course IND
   + [Ensemble Learning & Random Forest](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Ensemble_Learning%26Random_Forest)
   + [Linear Regression](https://github.com/bamboohorseking/INDE577/tree/main/Supervised-Learning/Linear_Regression)
 + Unsupervised Learning
-  + [The K-Means Clustering]
+  + [The K-Means Clustering](https://github.com/bamboohorseking/INDE577/tree/main/Unsupervised-Learning/K_Means_Clustering)
 
 
 
