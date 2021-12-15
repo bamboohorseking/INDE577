@@ -4,7 +4,7 @@ In this assignment, I will use linear regression to fit the dataset in the begin
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuJMbwfxwxCsaTHGPicZpuG-kqBX0T_2QPw&usqp=CAU" width="400" height="350">
 
 
-##Packages
+## Packages
 The following packages will be needed to run the code below:
 
 *   matplotlib: [documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
