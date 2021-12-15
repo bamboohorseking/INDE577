@@ -4,7 +4,7 @@ In this project, it will focus on implementing the K Nearest Neighbors algorithm
 <img src="https://test.basel.in/wp-content/uploads/2019/06/KNN-1.jpg" width="800" height="700">
 
 ## Data
-In this assignment, we will explore KNN method on adataset named "Red wine". It contains 1599 samples,12 columns.
+In this assignment, we will explore KNN method on adataset named "Red wine". It contains 1599 samples,12 columns. Download link is: [link](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 * fixed acidity
 * volatile acidity
 * citric acid
@@ -16,7 +16,7 @@ In this assignment, we will explore KNN method on adataset named "Red wine". It 
 * pH
 * sulphates
 * alcohol
-
+* quality
 ## Packages
 The following packages will be needed to run the code below:
 *   matplotlib.pyplot: [documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
