@@ -3,6 +3,8 @@
 In this assignment, we will explore K means algorithm on a dataset named "Red wine". First, I will build a K means model by using 2 features: density and alcohol. After that, I will build a K means model with 3 features: density, pH and alcohol. 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpfvqviF7zInn_-p3GdOgc4WD1M3JRMa61jw&usqp=CAU" width="800" height="700">
+
+
 ## Data
 In this assignment, we will explore K means algorithm on a dataset named "Red wine". It contains 1599 samples,12 columns. Download link is: [link](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 * fixed acidity
