@@ -27,3 +27,6 @@ The following packages will be needed to run the code below:
 *   pandas: [documentation](https://pandas.pydata.org/docs/)
 *   sklearn: [documentation](https://scikit-learn.org/stable/)
 *   seaborn: [documentation](https://seaborn.pydata.org/)
+
+## References: 
+1. Single-layer Neural Networks (Perceptrons): https://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html
