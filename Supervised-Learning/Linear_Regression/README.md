@@ -10,3 +10,8 @@ I am going to use the following packages to finish this project:
 *   numpy: [documentation](https://numpy.org/devdocs/)
 *   pandas: [documentation](https://pandas.pydata.org/docs/)
 *   plotly: [documentation](https://plotly.com/python/)
+
+
+
+## References: 
+1. Advantgaes and Disadvantages: https://iq.opengenus.org/advantages-and-disadvantages-of-linear-regression/
