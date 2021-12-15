@@ -8,18 +8,14 @@ In this assignment, we will explore classification decision trees on adataset na
 
 ## Data
 In this assignment, we will explore Decision Tree Algorithm on a dataset named "Diabetes". It contains 768 samples,9 columns. Download link is: [link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
-* fixed acidity
-* volatile acidity
-* citric acid
-* residual sugar
-* chlorides
-* free sulfur dioxide
-* total sulfur dioxide
-* density
-* pH
-* sulphates
-* alcohol
-* quality
+* Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+* BloodPressure: Diastolic blood pressure (mm Hg)
+* SkinThickness: Triceps skin fold thickness (mm)
+* Insulin: 2-Hour serum insulin (mu U/ml)
+* BMI: Body mass index (weight in kg/(height in m)^2)
+* DiabetesPedigreeFunction: Diabetes pedigree function
+* Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
+
 
 
 ## Packages
