@@ -29,3 +29,6 @@ The following packages will be needed to run the code below:
 *   pandas: [documentation](https://pandas.pydata.org/docs/)
 *   sklearn: [documentation](https://scikit-learn.org/stable/)
 *   mpl_toolkits: [documentation](https://matplotlib.org/3.4.3/api/toolkits/index.html)
+
+## References:
+1.How to Determine the Optimal K for K-Means?: https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb
