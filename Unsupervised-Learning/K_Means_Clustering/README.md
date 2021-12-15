@@ -2,7 +2,7 @@
 ## Objectives:
 In this assignment, we will explore K means algorithm on a dataset named "Red wine". First, I will build a K means model by using 2 features: density and alcohol. After that, I will build a K means model with 3 features: density, pH and alcohol. 
 
-<img src="https://files.realpython.com/media/K-Means-Clustering-in-Python_Watermarked.14dc56523461.jpg" width="800" height="700">
+<img src="https://files.realpython.com/media/K-Means-Clustering-in-Python_Watermarked.14dc56523461.jpg" width="1000" height="700">
 
 
 ## Data
