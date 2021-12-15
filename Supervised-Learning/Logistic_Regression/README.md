@@ -6,7 +6,7 @@ Given the Red wine infomation, I want to predict the quality of the red wine. We
 
 
 ## Data
-In this assignment, we will explore KNN method on adataset named "Red wine". It contains 1599 samples,12 columns. Download link is: [link](https://archive.ics.uci.edu/ml/datasets/wine+quality)
+In this assignment, we will explore Logistic Algorithm on adataset named "Red wine". It contains 1599 samples,12 columns. Download link is: [link](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 * fixed acidity
 * volatile acidity
 * citric acid
