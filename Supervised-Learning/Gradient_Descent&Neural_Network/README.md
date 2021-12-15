@@ -11,3 +11,6 @@ The following packages will be needed to run the code below:
 *   numpy: [documentation](https://numpy.org/devdocs/)
 *   pandas: [documentation](https://pandas.pydata.org/docs/)
 *   sklearn: [documentation](https://scikit-learn.org/stable/)
+
+## References
+1. Creating & Visualizing Neural Network in R: https://www.analyticsvidhya.com/blog/2017/09/creating-visualizing-neural-network-in-r/
