@@ -1,5 +1,5 @@
 ## Data
-In this assignment, we will explore KNN method on adataset named "Red wine". It contains 1599 samples,12 columns.\
+In this assignment, we will explore KNN method on adataset named "Red wine". It contains 1599 samples,12 columns.
 
 ## Packages
 The following packages will be needed to run the code below:
