@@ -5,7 +5,17 @@ In this project, it will focus on implementing the K Nearest Neighbors algorithm
 
 ## Data
 In this assignment, we will explore KNN method on adataset named "Red wine". It contains 1599 samples,12 columns.
-*  fixed acidity: most acids involved with wine or fixed or nonvolatile**
+1 - fixed acidity
+2 - volatile acidity
+3 - citric acid
+4 - residual sugar
+5 - chlorides
+6 - free sulfur dioxide
+7 - total sulfur dioxide
+8 - density
+9 - pH
+10 - sulphates
+11 - alcohol
 
 ## Packages
 The following packages will be needed to run the code below:
