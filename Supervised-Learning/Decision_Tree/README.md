@@ -1,7 +1,24 @@
 # Decision Tree
 By: Shiyuan Wang\
-In this assignment, we will explore classification decision trees on adataset named "Diabetes". It contains 768 samples,9 columns. This data mainly consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.\
-The website link to download: https://www.kaggle.com/uciml/pima-indians-diabetes-database. \
+In this assignment, we will explore classification decision trees on adataset named "Diabetes". 
+
+## Data
+In this assignment, we will explore Decision Tree Algorithm on a dataset named "Diabetes". It contains 768 samples,9 columns. Download link is: [link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+* fixed acidity
+* volatile acidity
+* citric acid
+* residual sugar
+* chlorides
+* free sulfur dioxide
+* total sulfur dioxide
+* density
+* pH
+* sulphates
+* alcohol
+* quality
+
+
+## Packages
 The following packages will be needed to run the code below:
 *   matplotlib: [documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
 *   numpy: [documentation](https://numpy.org/devdocs/)
