@@ -4,7 +4,7 @@ By: Shiyuan Wang
 
 ## Objectives
 
-In this assignment, we will explore classification decision trees on adataset named "Diabetes". 
+In this assignment, we will explore the decision trees Algorithm on a dataset named "Diabetes". 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7F4wonwo_HQnTjrLtRQc6c_xyNKBcJToig&usqp=CAU" width="500" height="700">
 
 ## Data
