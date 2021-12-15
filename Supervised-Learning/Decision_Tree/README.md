@@ -1,4 +1,5 @@
 # Decision Tree
+## Objectives
 By: Shiyuan Wang\
 In this assignment, we will explore classification decision trees on adataset named "Diabetes". 
 
