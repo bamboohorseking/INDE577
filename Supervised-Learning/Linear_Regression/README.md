@@ -14,4 +14,4 @@ I am going to use the following packages to finish this project:
 
 
 ## References: 
-1. Advantgaes and Disadvantages of Linear regression: https://iq.opengenus.org/advantages-and-disadvantages-of-linear-regression/
+*  Advantgaes and Disadvantages of Linear regression: https://iq.opengenus.org/advantages-and-disadvantages-of-linear-regression/
