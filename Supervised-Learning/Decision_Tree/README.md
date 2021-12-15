@@ -6,6 +6,7 @@ By: Shiyuan Wang
 
 In this assignment, we will explore classification decision trees on adataset named "Diabetes". 
 
+
 ## Data
 In this assignment, we will explore Decision Tree Algorithm on a dataset named "Diabetes". It contains 768 samples,9 columns. Download link is: [link](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
