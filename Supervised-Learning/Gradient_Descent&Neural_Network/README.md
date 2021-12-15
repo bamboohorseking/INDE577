@@ -1,6 +1,6 @@
 ## Gradient Descent, Neural Network I 
 By: Shiyuan Wang\
-In this assignment, I will use linear regression to fit the dataset in the begining.  I will also use neural network model and gradient descent method to fit the dataset again. And I will make comparisions between those 2 models.
+In this assignment, I will use linear regression to fit the dataset in the begining.  I will also use neural network model and gradient descent method to fit the dataset again. Then I will make comparisions between those 2 models.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuJMbwfxwxCsaTHGPicZpuG-kqBX0T_2QPw&usqp=CAU" width="400" height="350">
 
 
